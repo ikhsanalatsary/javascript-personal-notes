@@ -49,6 +49,7 @@ My personal note about javascript learning resources you can find on the interne
 |Javascript ES6 — Exploring the New Built-In Methods|<ul><li>https://hackernoon.com/javascript-es6-exploring-the-new-built-in-methods-b62583b0a8e6</li></ul>|Article|
 |You-Dont-Know-JS|<ul><li>https://github.com/getify/You-Dont-Know-JS</li></ul>|Book|
 |Eloquent JavaScript|<ul><li>http://eloquentjavascript.net/</li></ul>|Book|
+|JavaScript Allongé, the "Six" Edition JavaScript|<ul><li>https://leanpub.com/javascriptallongesix/read</li></ul>|eBook (read online is free)|
 
 
 ### Paid Resources
